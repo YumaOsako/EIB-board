@@ -9,3 +9,5 @@ This blueprint was generated for the electrophysiological recording of the mice/
 OpenEphys 
 An easy-to-assemble, robust, and lightweight drive implant for chronic tetrode recordings in freely moving animals J Voigts, JP Newman, MA Wilson, MT Harnett Journal of Neural Engineering 17 (2), 026044 (https://iopscience.iop.org/article/10.1088/1741-2552/ab77f9/meta) 
 
+![EIB_96Ch_YO Head](https://user-images.githubusercontent.com/45959880/111130991-29b46980-85bb-11eb-9dea-0693df544d3e.png)
+![EIB_96Ch_YO Tails](https://user-images.githubusercontent.com/45959880/111131045-33d66800-85bb-11eb-8934-c819120eb53a.png)
